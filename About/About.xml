@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Progression: Fantasy</name>
+	<author>ferny</author>
+	<packageId>ferny.progressionfantasy</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Integrates fantasy mods into Vanilla progression.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>sarg.magicalmenagerie</li>
+		<li>rooboid.minotaur</li>
+		<li>rooboid.faun</li>
+		<li>rooboid.satyr</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>det.epochspyrinth</li>
+		<li>rooboid.satyrfaun.expanded</li>
+	</loadAfter>
+</ModMetaData>

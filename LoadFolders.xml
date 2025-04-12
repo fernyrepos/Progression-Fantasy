@@ -1,0 +1,10 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="rooboid.minotaur">Mods and Shit/Roo Minotaur</li>
+    <li IfModActive="rooboid.faun">Mods and Shit/Roo Faun</li>
+    <li IfModActive="rooboid.satyr">Mods and Shit/Roo Satyr</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="det.epochspyrinth">Mods and Shit/Pyrinth</li>
+  </v1.5>
+</loadFolders>

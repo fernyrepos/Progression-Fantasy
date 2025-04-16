@@ -13,7 +13,7 @@
 
   <Operation Class="PatchOperationFindMod">
       <mods>
-        <li>Anomaly</li>
+	    	<li>Ludeon.Rimworld.Anomaly</li>
       </mods>
       <match Class="PatchOperationReplace">
             <xpath>Defs/ThingDef[defName="DevDesigner_Blood_MeleeWeapon_VoidLongsword"]/costList</xpath>

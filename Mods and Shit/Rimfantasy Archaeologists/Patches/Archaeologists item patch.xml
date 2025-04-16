@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+ 
+  <!-- Item Description changes -->
+
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_RoyalCapeA"]/description</xpath>
+            <value>
+                  <description>Set of enhanced equipment for scholar`s protection on the battlefield.</description>
+            </value>
+      </Operation>
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_RoyalCapeB"]/description</xpath>
+            <value>
+                  <description>Set of enhanced equipment for scholar`s protection on the battlefield.</description>
+            </value>
+      </Operation>
+
+    <Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_Caster_plate_armorA"]/description</xpath>
+      <value>
+            <description>Set of enhanced equipment for scholar`s protection on the battlefield.</description>
+      </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="Ogam_Caster_plate_armorB"]/description</xpath>
+        <value>
+              <description>Set of enhanced equipment for scholar`s protection on the battlefield.</description>
+        </value>
+      </Operation>
+
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_WizzardHatA"]/description</xpath>
+            <value>
+                  <description>A Wizard Hat is a traditional headgear worn by those in the Archaeology Guild who believe geo-engineered stones of Project Baetyl are actually magic.</description>
+            </value>
+      </Operation>
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_WizzardHatB"]/description</xpath>
+            <value>
+                  <description>A Wizard Hat is a traditional headgear worn by those in the Archaeology Guild who believe geo-engineered stones of Project Baetyl are actually magic.</description>
+            </value>
+      </Operation>
+      
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_ShieldHeater_MagicalAcademy"]/label</xpath>
+            <value>
+                  <label>heater shield (Archaeologist Guild)</label>
+            </value>
+      </Operation>   
+    
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/ThingDef[defName="Ogam_GuildCloth"]/label</xpath>
+        <value>
+              <label>Archaeologist Guild Cloth</label>
+        </value>
+    </Operation> 
+
+  <!-- Weapon Description changes -->
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Ogam_RunePistol"]</xpath>
+    <value>
+          <description>An exotic Flintlock Pistol made possible only by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_RuneMortar"]</xpath>
+      <value>
+            <description>An exotic Hand Mortar made possible only by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
+    </value>
+    </Operation>      
+    <Operation Class="PatchOperationAdd">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_RuneMusket"]</xpath>
+      <value>
+            <description>An exotic Musket made possible only by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
+    </value>
+    </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Ogam_AmberLongsword"]</xpath>
+    <value>
+          <description>A razor sharp blade with a deadly purpose, a choice weapon for those who strive for a balance between elegance and power.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Ogam_AmberBanner"]</xpath>
+    <value>
+          <description>Regal looking polearm with a gemstone tip, capable of puncturing through armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Ogam_AmberSpear"]</xpath>
+    <value>
+          <description>Regal looking polearm with a gemstone tip, capable of puncturing through armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Ogam_AmberStaff"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this staff is charged with crystalline energy and can be used to launch a barrage upon enemies.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Ogam_AmberWarHammer"]</xpath>
+    <value>
+          <description>Hunk of gemstone attached to a pole, capable pulverising armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>  
+
+ <!-- Grimoire changes -->
+
+ <Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_AmberBook"]/description</xpath>
+      <value>
+              <description>A rare and powerful tome, crafted from geo-modified amber resin and imbued with powerful dark energy.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_EmeraldBook"]/description</xpath>
+      <value>
+              <description>A rare and powerful tome, crafted from geo-modified emerald gemstones and imbued with powerful dark energy.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_RubyBook"]/description</xpath>
+      <value>
+              <description>A rare and powerful tome, crafted from geo-modified ruby gemstones and imbued with powerful dark energy.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/ThingDef[defName="Ogam_SapphireBook"]/description</xpath>
+      <value>
+              <description>A rare and powerful tome, crafted from geo-modified sapphire gemstones and imbued with powerful dark energy.</description>
+        </value>
+    </Operation>
+
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_AmberBook"]/label</xpath>
+            <value>
+                  <label>amber grimoire</label>
+            </value>
+      </Operation> 
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_EmeraldBook"]/label</xpath>
+            <value>
+                  <label>emerald grimoire</label>
+            </value>
+      </Operation> 
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_RubyBook"]/label</xpath>
+            <value>
+                  <label>ruby grimoire</label>
+            </value>
+      </Operation> 
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_SapphireBook"]/label</xpath>
+            <value>
+                  <label>sapphire grimoire</label>
+            </value>
+      </Operation> 
+
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_AmberBook"]/costList</xpath>
+            <value>
+                  <costList>
+                        <DankPyon_Amber>75</DankPyon_Amber>
+                        <DankPyon_Paper>75</DankPyon_Paper>
+                        <Shard>1</Shard>
+                    </costList>
+            </value>
+      </Operation> 
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_EmeraldBook"]/costList</xpath>
+            <value>
+                  <costList>
+                        <DankPyon_Emerald>75</DankPyon_Emerald>
+                        <DankPyon_Paper>75</DankPyon_Paper>
+                        <Shard>1</Shard>
+                    </costList>
+            </value>
+      </Operation> 
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_RubyBook"]/costList</xpath>
+            <value>
+                  <costList>
+                        <DankPyon_Ruby>75</DankPyon_Ruby>
+                        <DankPyon_Paper>75</DankPyon_Paper>
+                        <Shard>1</Shard>
+                    </costList>
+            </value>
+      </Operation> 
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/ThingDef[defName="Ogam_SapphireBook"]/costList</xpath>
+            <value>
+                  <costList>
+                        <DankPyon_Sapphire>75</DankPyon_Sapphire>
+                        <DankPyon_Paper>75</DankPyon_Paper>
+                        <Shard>1</Shard>
+                    </costList>
+            </value>
+      </Operation> 
+
+</Patch>

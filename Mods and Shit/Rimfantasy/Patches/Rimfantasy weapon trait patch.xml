@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+  <!-- Bane Trait Message changes -->
+  
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorBane"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak poisonous reaction, this weapon can sometimes unleash a weak wave of energy and may cause toxic buildup.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Bane"]/description</xpath>
+    <value>
+          <description>Enhanced with a poisonous reaction, this weapon can sometimes unleash a wave of energy and may cause toxic buildup.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorBane"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong poisonous reaction, this weapon can sometimes unleash a powerful wave of energy and may cause toxic buildup.</description>
+    </value>
+  </Operation>
+
+  <!-- Slow Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlow_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak sleep powder effect, this weapon can sometimes unleash a weak wave of energy and make it slightly more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slow_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a sleep powder effect, this weapon can sometimes unleash a wave of energy and make it more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlow_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong sleep powder effect, this weapon can sometimes unleash a powerful wave of energy and make it much more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlow_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak sleep powder effect, this weapon can sometimes unleash a weak wave of energy and make it slightly more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slow_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a sleep powder effect, this weapon can sometimes unleash a wave of energy and make it more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlow_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong sleep powder effect, this weapon can sometimes unleash a powerful wave of energy and make it much more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlow_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak sleep powder effect, this weapon can sometimes unleash a weak wave of energy and make it slightly more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slow_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a sleep powder effect, this weapon can sometimes unleash a wave of energy and make it more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlow_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong sleep powder effect, this weapon can sometimes unleash a powerful wave of energy and make it much more difficult for the target to fight effectively.</description>
+    </value>
+  </Operation>
+
+  <!-- Blaze Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorBlaze_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak exothermic reaction, this weapon can sometimes unleash a weak wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorBlaze_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong exothermic reaction, this weapon can sometimes unleash a powerful wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorBlaze_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak exothermic reaction, this weapon can sometimes unleash a weak wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorBlaze_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong exothermic reaction, this weapon can sometimes unleash a powerful wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorBlaze_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak exothermic reaction, this weapon can sometimes unleash a weak wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorBlaze_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong exothermic reaction, this weapon can sometimes unleash a powerful wave of energy and may set a target on fire.</description>
+    </value>
+  </Operation>
+
+  <!-- Displacement Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorDisplacement_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak gravitational reaction, this weapon can sometimes unleash a weak wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Displacement_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a gravitational reaction, this weapon can sometimes unleash a wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorDisplacement_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong gravitational reaction, this weapon can sometimes unleash a powerful wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorDisplacement_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak gravitational reaction, this weapon can sometimes unleash a weak wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Displacement_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a gravitational reaction, this weapon can sometimes unleash a wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorDisplacement_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong gravitational reaction, this weapon can sometimes unleash a powerful wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorDisplacement_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak gravitational reaction, this weapon can sometimes unleash a weak wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Displacement_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a gravitational reaction, this weapon can sometimes unleash a wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorDisplacement_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong gravitational reaction, this weapon can sometimes unleash a powerful wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+
+  <!-- Drain Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorDrain_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak sanguinary reaction, this weapon can sometimes release a weak wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Drain_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a sanguinary reaction, this weapon can sometimes release a wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorDrain_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong sanguinary reaction, this weapon can sometimes release a powerful wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorDrain_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak sanguinary reaction, this weapon can sometimes release a weak wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Drain_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a sanguinary reaction, this weapon can sometimes release a wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorDrain_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong sanguinary reaction, this weapon can sometimes release a powerful wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorDrain_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak sanguinary reaction, this weapon can sometimes release a weak wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Drain_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a sanguinary reaction, this weapon can sometimes release a wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorDrain_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong sanguinary reaction, this weapon can sometimes release a powerful wave of vampiric energy upon the target.</description>
+    </value>
+  </Operation>
+
+  <!-- Heal Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorHeal_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak restoritive reaction, this weapon can sometimes release a weak wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Heal_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a restoritive reaction, this weapon can sometimes release a wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorHeal_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong restoritive reaction, this weapon can sometimes release a powerful wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorHeal_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak restoritive reaction, this weapon can sometimes release a weak wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Heal_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a restoritive reaction, this weapon can sometimes release a wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorHeal_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong restoritive reaction, this weapon can sometimes release a powerful wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorHeal_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak restoritive reaction, this weapon can sometimes release a weak wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Heal_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a restoritive reaction, this weapon can sometimes release a wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorHeal_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong restoritive reaction, this weapon can sometimes release a powerful wave of restorative energy upon the wielder.</description>
+    </value>
+  </Operation>
+
+  <!-- Magic Blast Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+    </value>
+  </Operation>
+
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Emerald"]/label</xpath>
+    <value>
+          <label>Minor Explosive Blast</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Emerald"]/label</xpath>
+    <value>
+          <label>Explosive Blast</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Emerald"]/label</xpath>
+    <value>
+          <label>Major Explosive Blast</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Ruby"]/label</xpath>
+    <value>
+          <label>Minor Explosive Blast</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Ruby"]/label</xpath>
+    <value>
+          <label>Explosive Blast</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Ruby"]/label</xpath>
+    <value>
+          <label>Major Explosive Blast</label>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Saphire"]/label</xpath>
+    <value>
+          <label>Minor Explosive Blast</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Saphire"]/label</xpath>
+    <value>
+          <label>Explosive Blast</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Saphire"]/label</xpath>
+    <value>
+          <label>Major Explosive Blast</label>
+    </value>
+  </Operation>
+
+  <!-- Shock Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorShock_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak static reaction, this weapon can sometimes unleash a weak wave of energy and may briefly stun the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Shock_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a static reaction, this weapon can sometimes unleash a wave of energy and may stun the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorShock_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong static reaction, this weapon can sometimes unleash a powerful wave of energy and may momentarily stun the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorShock_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak static reaction, this weapon can sometimes unleash a weak wave of energy and may briefly stun the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Shock_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a static reaction, this weapon can sometimes unleash a wave of energy and may stun the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorShock_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong static reaction, this weapon can sometimes unleash a powerful wave of energy and may momentarily stun the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorShock_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak static reaction, this weapon can sometimes unleash a weak wave of energy and may briefly stun the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Shock_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a static reaction, this weapon can sometimes unleash a wave of energy and may stun the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorShock_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong static reaction, this weapon can sometimes unleash a powerful wave of energy and may momentarily stun the target.</description>
+    </value>
+  </Operation>
+
+  <!-- Slam Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlam_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak static reaction, this weapon can sometimes unleash a weak wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slam_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a static reaction, this weapon can sometimes unleash a wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlam_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong static reaction, this weapon can sometimes unleash a powerful wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlam_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak static reaction, this weapon can sometimes unleash a weak wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slam_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a static reaction, this weapon can sometimes unleash a wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlam_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong static reaction, this weapon can sometimes unleash a powerful wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlam_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak static reaction, this weapon can sometimes unleash a weak wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slam_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a static reaction, this weapon can sometimes unleash a wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlam_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong static reaction, this weapon can sometimes unleash a powerful wave of energy around the target and knock them back.</description>
+    </value>
+  </Operation>
+
+  <!-- Longsword Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_Longsword_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_Longsword_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_Longsword_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_Longsword_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_Longsword_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_Longsword_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_Longsword_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_Longsword_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_Longsword_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <!-- Slash Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <!-- Battle Axe Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_BattleAxe_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_BattleAxe_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_BattleAxe_Emerald"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_BattleAxe_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_BattleAxe_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_BattleAxe_Ruby"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorSlash_BattleAxe_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak reaction when slashing, this weapon can sometimes unleash a weak wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Slash_BattleAxe_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a reaction when slashing, this weapon can sometimes unleash a wave of energy around the target.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorSlash_BattleAxe_Saphire"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong reaction when slashing, this weapon can sometimes unleash a powerful wave of energy around the target.</description>
+    </value>
+  </Operation>
+
+  <!-- W Shield Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorWarriorsShield"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak magnetic reaction, this weapon projects a weak bubble of energy that can occasionally shield the user from danger.\n\nThis variant of the shield effect is more reliable against melee attacks.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_WarriorsShield"]/description</xpath>
+    <value>
+          <description>Enhanced with a magnetic reaction, this weapon projects a bubble of energy that can occasionally shield the user from danger.\n\nThis variant of the shield effect is more reliable against melee attacks.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorWarriorsShield"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong magnetic reaction, this weapon projects a powerful bubble of energy that can occasionally shield the user from danger.\n\nThis variant of the shield effect is more reliable against melee attacks.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorWarriorsShield"]/label</xpath>
+    <value>
+          <label>Minor Melee Magnetic Shield</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_WarriorsShield"]/label</xpath>
+    <value>
+          <label>Minor Melle Magnetic Shield</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorWarriorsShield"]/label</xpath>
+    <value>
+          <label>Minor Melee Magnetic Shield</label>
+    </value>
+  </Operation>
+
+  <!-- M Shield Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagiciansShield"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak magnetic reaction, this weapon projects a weak bubble of energy that can occasionally shield the user from danger.\n\nThis variant of the shield effect is more reliable against ranged attacks.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagiciansShield"]/description</xpath>
+    <value>
+          <description>Enhanced with a magnetic reaction, this weapon projects a bubble of energy that can occasionally shield the user from danger.\n\nThis variant of the shield effect is more reliable against ranged attacks.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagiciansShield"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong magnetic reaction, this weapon projects a powerful bubble of energy that can occasionally shield the user from danger.\n\nThis variant of the shield effect is more reliable against ranged attacks.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagiciansShield"]/label</xpath>
+    <value>
+          <label>Minor Ranged Magnetic Shield</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagiciansShield"]/label</xpath>
+    <value>
+          <label>Minor Ranged Magnetic Shield</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagiciansShield"]/label</xpath>
+    <value>
+          <label>Minor Ranged Magnetic Shield</label>
+    </value>
+  </Operation>
+
+  <!-- Scorch Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorScorch"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak exothermic reaction, this weapon can sometimes unleash a weak wave of energy and may cause heatstrokes.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Scorch"]/description</xpath>
+    <value>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may cause heatstrokes.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorScorch"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong exothermic reaction, this weapon can sometimes unleash a powerful wave of energy and may cause heatstrokes.</description>
+    </value>
+  </Operation>
+
+  <!-- Freeze Trait Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorFreeze"]/description</xpath>
+    <value>
+          <description>Enhanced with a weak endothermic reaction, this weapon can sometimes unleash a weak wave of energy and may cause hypothermia.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Freeze"]/description</xpath>
+    <value>
+          <description>Enhanced with a endothermic reaction, this weapon can sometimes unleash a wave of energy and may cause hypothermia.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorFreeze"]/description</xpath>
+    <value>
+          <description>Enhanced with a strong endothermic reaction, this weapon can sometimes unleash a powerful wave of energy and may cause hypothermia.</description>
+    </value>
+  </Operation>
+  
+</Patch>

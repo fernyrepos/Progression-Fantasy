@@ -6,5 +6,6 @@
     <li IfModActive="rooboid.satyr">Mods and Shit/Roo Satyr</li>
     <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
     <li IfModActive="det.epochspyrinth">Mods and Shit/Pyrinth</li>
+    <li IfModActive="sierra.rf.medievaloverhaul">Mods and Shit/Rimfantasy</li>
   </v1.5>
 </loadFolders>

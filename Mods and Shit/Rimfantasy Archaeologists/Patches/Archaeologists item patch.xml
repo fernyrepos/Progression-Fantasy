@@ -187,8 +187,12 @@
                   <label>sapphire grimoire</label>
             </value>
       </Operation> 
-
-      <Operation Class="PatchOperationReplace">
+ 
+  <Operation Class="PatchOperationFindMod">
+      <mods>
+        <li>Anomaly</li>
+      </mods>
+      <match Class="PatchOperationReplace">
             <success>Always</success>
             <xpath>Defs/ThingDef[defName="Ogam_AmberBook"]/costList</xpath>
             <value>
@@ -198,8 +202,13 @@
                         <Shard>1</Shard>
                     </costList>
             </value>
-      </Operation> 
-      <Operation Class="PatchOperationReplace">
+      </match>
+  </Operation> 
+  <Operation Class="PatchOperationFindMod">
+      <mods>
+        <li>Anomaly</li>
+      </mods>
+      <match Class="PatchOperationReplace">
             <success>Always</success>
             <xpath>Defs/ThingDef[defName="Ogam_EmeraldBook"]/costList</xpath>
             <value>
@@ -209,8 +218,13 @@
                         <Shard>1</Shard>
                     </costList>
             </value>
-      </Operation> 
-      <Operation Class="PatchOperationReplace">
+      </match>
+ </Operation> 
+  <Operation Class="PatchOperationFindMod">
+      <mods>
+        <li>Anomaly</li>
+      </mods>
+      <match Class="PatchOperationReplace">
             <success>Always</success>
             <xpath>Defs/ThingDef[defName="Ogam_RubyBook"]/costList</xpath>
             <value>
@@ -220,8 +234,13 @@
                         <Shard>1</Shard>
                     </costList>
             </value>
-      </Operation> 
-      <Operation Class="PatchOperationReplace">
+      </match>
+ </Operation> 
+  <Operation Class="PatchOperationFindMod">
+      <mods>
+        <li>Anomaly</li>
+      </mods>
+      <match Class="PatchOperationReplace">
             <success>Always</success>
             <xpath>Defs/ThingDef[defName="Ogam_SapphireBook"]/costList</xpath>
             <value>
@@ -231,6 +250,7 @@
                         <Shard>1</Shard>
                     </costList>
             </value>
-      </Operation> 
+      </match>
+ </Operation> 
 
 </Patch>

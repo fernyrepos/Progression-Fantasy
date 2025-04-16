@@ -190,7 +190,7 @@
  
   <Operation Class="PatchOperationFindMod">
       <mods>
-        <li>Anomaly</li>
+		      <li>Ludeon.Rimworld.Anomaly</li>
       </mods>
       <match Class="PatchOperationReplace">
             <success>Always</success>
@@ -206,7 +206,7 @@
   </Operation> 
   <Operation Class="PatchOperationFindMod">
       <mods>
-        <li>Anomaly</li>
+		      <li>Ludeon.Rimworld.Anomaly</li>
       </mods>
       <match Class="PatchOperationReplace">
             <success>Always</success>
@@ -222,7 +222,7 @@
  </Operation> 
   <Operation Class="PatchOperationFindMod">
       <mods>
-        <li>Anomaly</li>
+		      <li>Ludeon.Rimworld.Anomaly</li>
       </mods>
       <match Class="PatchOperationReplace">
             <success>Always</success>
@@ -237,8 +237,8 @@
       </match>
  </Operation> 
   <Operation Class="PatchOperationFindMod">
-      <mods>
-        <li>Anomaly</li>
+      <mods> 
+		      <li>Ludeon.Rimworld.Anomaly</li>
       </mods>
       <match Class="PatchOperationReplace">
             <success>Always</success>

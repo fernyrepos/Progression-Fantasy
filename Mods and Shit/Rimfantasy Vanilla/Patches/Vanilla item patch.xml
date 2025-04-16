@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+<!-- Research Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="Addie_RimecrystalWeapons"]/description</xpath>
+    <value>
+          <description>Forge powerful weapons of Old Illa with rimecrystal, thanks to project baetyl sapphires.\n\nThese brutal weapons are reflective of the desperation felt in the years leading to the fall of Old Illa.</description>
+    </value>
+  </Operation>
+
+  <!-- Lamp changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Addie_RimecrystalGreatbow"]/description</xpath>
+    <value>
+          <description>A greatbow made of smoothed rimecrystal.\n\nTo counter their reputation as poor marksmen, Illans compensated for their inability to aim with crystal bows enhanced with self-correcting accuracy.\n\nThis bow fires frostbite inducing projeciles with unnatural accuracy at great distances over walls, but is nearly useless in close range.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Addie_RimecrystalAxe"]/description</xpath>
+    <value>
+          <description>A chunk of enhanced rimecrystal formed into the shape of a war axe.\n\nThe rimecrystal weapons were first forged during the fall of Illa, and as such lack the elegance expected of Illan culture in favour of brutal, cold hatred.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Addie_RimecrystalSpear"]/description</xpath>
+    <value>
+          <description>A chunk of enhanced rimecrystal formed into the shape of a spear.\n\nThe rimecrystal weapons were first forged during the fall of Illa, and as such lack the elegance expected of Illan culture in favour of brutal, cold hatred.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Addie_RimecrystalDagger"]/description</xpath>
+    <value>
+          <description>A chunk of enhanced rimecrystal formed into the shape of a dagger.\n\nThe rimecrystal weapons were first forged during the fall of Illa, and as such lack the elegance expected of Illan culture in favour of brutal, cold hatred.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Addie_RimecrystalSword"]/description</xpath>
+    <value>
+          <description>A chunk of enhanced rimecrystal formed into the shape of a sword.\n\nThe rimecrystal weapons were first forged during the fall of Illa, and as such lack the elegance expected of Illan culture in favour of brutal, cold hatred.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="Addie_RimecrystalStaff"]/description</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this staff is charged with crystalline energy and can be used to launch a barrage upon enemies.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+</Patch>

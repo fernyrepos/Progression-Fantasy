@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+  <!-- Natural changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_MineableAmethyst"]/description</xpath>
+    <value>
+          <description>A hard, purple stone. Often used for ornaments and decorations despite its status as a more common gemstone. Its true value lies in the quantity of project Baetyl modified amethyst due to its ability to hold a tremendous amount of energy.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_Amethyst"]/description</xpath>
+    <value>
+          <description>A hard, purple stone. Often used for ornaments and decorations despite its status as a more common gemstone. While its hardness and density also makes it a good material for blunt weapons, its true value lies in its ability to hold a tremendous amount of energy and is a popular material in project Baetyl experiments.</description>
+    </value>
+  </Operation>
+
+  <!-- Banner changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_Banner_Arcane"]/label</xpath>
+    <value>
+          <label>Banner (Baetyl).</label>
+    </value>
+  </Operation>
+
+</Patch>

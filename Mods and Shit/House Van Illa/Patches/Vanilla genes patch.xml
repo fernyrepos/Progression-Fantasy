@@ -3,7 +3,7 @@
 
  <Operation Class="PatchOperationReplace">
     <success>Always</success>
-    <xpath>Defs/defName[defName="Addie_SimulacrumGene"]/description</xpath>
+    <xpath>Defs/GeneDef[defName="Addie_SimulacrumGene"]/description</xpath>
     <value>
           <description>This individual is a simulacrum. Essentially composed made of ice, and kept alive by archites. They are immune to biological conditions and do not need to rest.</description>
     </value>
@@ -11,14 +11,14 @@
 
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
-    <xpath>Defs/defName[defName="Addie_GhostlyIce"]/description</xpath>
+    <xpath>Defs/GeneDef[defName="Addie_GhostlyIce"]/description</xpath>
     <value>
           <description>This individual's body is composed of ice, rendering them immune to cold.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
-    <xpath>Defs/defName[defName="Addie_GhostlyIce"]/label</xpath>
+    <xpath>Defs/GeneDef[defName="Addie_GhostlyIce"]/label</xpath>
     <value>
           <label>Ice Body</label>
     </value>
@@ -26,7 +26,7 @@
 
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
-    <xpath>Defs/defName[defName="Addie_SimPainless"]/description</xpath>
+    <xpath>Defs/GeneDef[defName="Addie_SimPainless"]/description</xpath>
     <value>
           <description>This individual is partially composed of ice and possesses minimal ability to feel pain.</description>
     </value>

@@ -875,7 +875,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_WarriorsShield"]/label</xpath>
     <value>
-          <label>Minor Melle Magnetic Shield</label>
+          <label>Minor Melee Magnetic Shield</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

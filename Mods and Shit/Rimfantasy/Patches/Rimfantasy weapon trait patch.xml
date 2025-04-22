@@ -106,7 +106,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Emerald"]/description</xpath>
     <value>
-          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -128,7 +128,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Ruby"]/description</xpath>
     <value>
-          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -150,7 +150,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Sapphire"]/description</xpath>
     <value>
-          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -378,7 +378,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Emerald"]/description</xpath>
     <value>
-          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with an Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -945,7 +945,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Scorch"]/description</xpath>
     <value>
-          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may cause heatstrokes.</description>
+          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may cause heatstrokes.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -969,7 +969,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Freeze"]/description</xpath>
     <value>
-          <description>Enhanced with a endothermic reaction, this weapon can sometimes unleash a wave of energy and may cause hypothermia.</description>
+          <description>Enhanced with an endothermic reaction, this weapon can sometimes unleash a wave of energy and may cause hypothermia.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

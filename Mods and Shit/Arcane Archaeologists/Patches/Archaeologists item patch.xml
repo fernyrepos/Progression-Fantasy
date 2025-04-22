@@ -141,21 +141,21 @@
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_EmeraldBook"]/description</xpath>
       <value>
-              <description>A rare and powerful tome, crafted from geo-modified emerald gemstones and imbued with powerful dark energy.</description>
+              <description>A rare and powerful tome, crafted from geo-modified emerald gemstones.</description>
         </value>
     </Operation>
     <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_RubyBook"]/description</xpath>
       <value>
-              <description>A rare and powerful tome, crafted from geo-modified ruby gemstones and imbued with powerful dark energy.</description>
+              <description>A rare and powerful tome, crafted from geo-modified ruby gemstones.</description>
         </value>
     </Operation>
     <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_SapphireBook"]/description</xpath>
       <value>
-              <description>A rare and powerful tome, crafted from geo-modified sapphire gemstones and imbued with powerful dark energy.</description>
+              <description>A rare and powerful tome, crafted from geo-modified sapphire gemstones.</description>
         </value>
     </Operation>
 

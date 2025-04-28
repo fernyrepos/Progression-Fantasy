@@ -7,7 +7,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_MineableAmethyst"]/description</xpath>
     <value>
-          <description>A hard, purple stone. Often used for ornaments and decorations despite its status as a more common gemstone. Its true value lies in the quantity of project Baetyl modified amethyst due to its ability to hold a tremendous amount of energy.</description>
+          <description>A hard, purple stone. Often used for ornaments and decorations despite its status as a more common gemstone. Its true value lies in the quantity of Project Baetyl modified amethyst due to its ability to hold a tremendous amount of energy.</description>
     </value>
   </Operation>
 
@@ -15,7 +15,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_Amethyst"]/description</xpath>
     <value>
-          <description>A hard, purple stone. Often used for ornaments and decorations despite its status as a more common gemstone. While its hardness and density also makes it a good material for blunt weapons, its true value lies in its ability to hold a tremendous amount of energy and is a popular material in project Baetyl experiments.</description>
+          <description>A hard, purple stone. Often used for ornaments and decorations despite its status as a more common gemstone. While its hardness and density also makes it a good material for blunt weapons, its true value lies in its ability to hold a tremendous amount of energy and is a popular material in Project Baetyl experiments.</description>
     </value>
   </Operation>
 

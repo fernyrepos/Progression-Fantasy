@@ -23,7 +23,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_AmethystDagger"]</xpath>
     <value>
-          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
     </value>
   </Operation>
 
@@ -90,7 +90,7 @@
  <success>Always</success>
  <xpath>Defs/ThingDef[defName="RF_AmethystRing"]/label</xpath>
  <value>
-       <label>Enhanced Amethyst Ring</label>
+       <label>enhanced amethyst ring</label>
  </value>
 </Operation>
 

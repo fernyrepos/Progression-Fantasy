@@ -7,7 +7,7 @@
     <success>Always</success>
     <xpath>Defs/ResearchProjectDef[defName="Addie_RimecrystalWeapons"]/description</xpath>
     <value>
-          <description>Forge powerful weapons of Old Illa with rimecrystal, thanks to project baetyl sapphires.\n\nThese brutal weapons are reflective of the desperation felt in the years leading to the fall of Old Illa.</description>
+          <description>Forge powerful weapons of Old Illa with rimecrystal, thanks to Project Baetyl sapphires.\n\nThese brutal weapons are reflective of the desperation felt in the years leading to the fall of Old Illa.</description>
     </value>
   </Operation>
 

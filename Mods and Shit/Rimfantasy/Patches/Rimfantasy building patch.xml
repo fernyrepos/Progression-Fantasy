@@ -7,7 +7,7 @@
     <success>Always</success>
     <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneCrafting"]/description</xpath>
     <value>
-          <description>Creation of powerful equipment using modified gemstones from project Baetyl.</description>
+          <description>Creation of powerful equipment using modified gemstones from Project Baetyl.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -22,7 +22,7 @@
     <success>Always</success>
     <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneDefences"]/description</xpath>
     <value>
-          <description>Construct powerful defences with using modified gemstones from project Baetyl.</description>
+          <description>Construct powerful defences with using modified gemstones from Project Baetyl.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -37,7 +37,7 @@
     <success>Always</success>
     <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneLighting"]/description</xpath>
     <value>
-          <description>Tap into the modified properties from project Baetyl to create light.</description>
+          <description>Tap into the modified properties from Project Baetyl to create light.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -52,7 +52,7 @@
     <success>Always</success>
     <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneTemperatureRegulation"]/description</xpath>
     <value>
-          <description>Tap into the modified properties from project Baetyl to create temperature altering pylons.</description>
+          <description>Tap into the modified properties from Project Baetyl to create temperature altering pylons.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -67,7 +67,7 @@
     <success>Always</success>
     <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneWeapons"]/description</xpath>
     <value>
-          <description>Forge powerful weapons of war with modified gemstones from project Baetyl.</description>
+          <description>Forge powerful weapons of war with modified gemstones from Project Baetyl.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -161,18 +161,19 @@
     </value>
   </Operation>
 
+
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/WorkGiverDef[defName="RF_DoBillsArcaneCrafting"]/verb</xpath>
     <value>
-          <verb>forge gemstone equipment</verb>
+          <verb>Forge gemstone equipment</verb>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/WorkGiverDef[defName="RF_DoBillsArcaneCrafting"]/gerund</xpath>
     <value>
-          <gerund>forging gemstone equipment at</gerund>
+          <gerund>Forging gemstone equipment at</gerund>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -203,7 +204,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_BombardPylon_MagicBolt"]/label</xpath>
     <value>
-          <label>Bombard pylon crystalline bolt</label>
+          <label>bombard pylon crystalline bolt</label>
     </value>
   </Operation>
 
@@ -227,7 +228,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_LancePylon_MagicBolt"]/label</xpath>
     <value>
-          <label>Lance pylon crystalline bolt</label>
+          <label>lance pylon crystalline bolt</label>
     </value>
   </Operation>
 
@@ -251,7 +252,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_SprayPylon_MagicBolt"]/label</xpath>
     <value>
-          <label>Spray pylon crystalline bolt</label>
+          <label>spray pylon crystalline bolt</label>
     </value>
   </Operation>
 

@@ -51,21 +51,21 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_EmeraldDagger"]</xpath>
     <value>
-          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationAdd">
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_RubyDagger"]</xpath>
     <value>
-          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationAdd">
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="RF_SapphireDagger"]</xpath>
     <value>
-          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
     </value>
   </Operation>
 
@@ -279,7 +279,7 @@
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWarHammers"]/label</xpath>
  <value>
-       <label>Gemstone War Hammers</label>
+       <label>Gemstone Warhammers</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
@@ -309,21 +309,21 @@
  <success>Always</success>
  <xpath>Defs/ThingDef[defName="RF_EmeraldRing"]/label</xpath>
  <value>
-       <label>Enhanced Emerald Ring</label>
+       <label>enhanced emerald ring</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingDef[defName="RF_RubyRing"]/label</xpath>
  <value>
-       <label>Enhanced Ruby Ring</label>
+       <label>ehanced ruby ring</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingDef[defName="RF_SapphireRing"]/label</xpath>
  <value>
-       <label>Enhanced Sapphire Ring</label>
+       <label>enhanced sapphire ring</label>
  </value>
 </Operation>
 

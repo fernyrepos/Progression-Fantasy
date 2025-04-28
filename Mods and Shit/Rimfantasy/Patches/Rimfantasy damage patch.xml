@@ -395,21 +395,21 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_BombardPylon_MagicBolt"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_LancePylon_MagicBolt"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_SprayPylon_MagicBolt"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 
@@ -417,21 +417,21 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_MagicBolt_EmeraldRing"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_MagicBolt_SapphireRing"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_MagicBolt_RubyRing"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 
@@ -441,49 +441,49 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Diamond"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Ruby"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Carnelian"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Emerald"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Citrine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Aquamarine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeRoundRF_Sapphire"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 
@@ -491,49 +491,49 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Diamond"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Ruby"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Carnelian"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Emerald"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Citrine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Aquamarine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumRoundRF_Sapphire"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 
@@ -541,49 +541,49 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Diamond"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Ruby"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Carnelian"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Emerald"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Citrine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Aquamarine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallRoundRF_Sapphire"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 
@@ -591,49 +591,49 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Diamond"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Ruby"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Carnelian"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Emerald"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Citrine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Aquamarine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_LargeSquareRF_Sapphire"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 
@@ -641,49 +641,49 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Diamond"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Ruby"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Carnelian"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Emerald"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Citrine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Aquamarine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_MediumSquareRF_Sapphire"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 
@@ -691,49 +691,49 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Diamond"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Ruby"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Carnelian"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Emerald"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Citrine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Aquamarine"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Sapphire"]/label</xpath>
       <value>
-            <label>Crystalline Burn</label>
+            <label>crystalline burn</label>
       </value>
 </Operation>   
 

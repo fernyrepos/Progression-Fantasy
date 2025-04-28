@@ -106,7 +106,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Emerald"]/description</xpath>
     <value>
-          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -128,7 +128,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Ruby"]/description</xpath>
     <value>
-          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -150,7 +150,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Blaze_Sapphire"]/description</xpath>
     <value>
-          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may set a target on fire.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -371,21 +371,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Emerald"]/description</xpath>
     <value>
-          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a weak explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Emerald"]/description</xpath>
     <value>
-          <description>Enhanced with an Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Emerald"]/description</xpath>
     <value>
-          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a strong explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
 
@@ -393,21 +393,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Ruby"]/description</xpath>
     <value>
-          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a weak explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Ruby"]/description</xpath>
     <value>
-          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Ruby"]/description</xpath>
     <value>
-          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a strong explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
 
@@ -415,21 +415,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Sapphire"]/description</xpath>
     <value>
-          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a weak explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Sapphire"]/description</xpath>
     <value>
-          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Sapphire"]/description</xpath>
     <value>
-          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a strong explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
 
@@ -438,21 +438,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Emerald"]/label</xpath>
     <value>
-          <label>Minor Explosive Blast</label>
+          <label>minor explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Emerald"]/label</xpath>
     <value>
-          <label>Explosive Blast</label>
+          <label>explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Emerald"]/label</xpath>
     <value>
-          <label>Major Explosive Blast</label>
+          <label>major explosive blast</label>
     </value>
   </Operation>
 
@@ -460,21 +460,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Ruby"]/label</xpath>
     <value>
-          <label>Minor Explosive Blast</label>
+          <label>minor explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Ruby"]/label</xpath>
     <value>
-          <label>Explosive Blast</label>
+          <label>explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Ruby"]/label</xpath>
     <value>
-          <label>Major Explosive Blast</label>
+          <label>major explosive blast</label>
     </value>
   </Operation>
   
@@ -482,21 +482,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Sapphire"]/label</xpath>
     <value>
-          <label>Minor Explosive Blast</label>
+          <label>minor explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Sapphire"]/label</xpath>
     <value>
-          <label>Explosive Blast</label>
+          <label>explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Sapphire"]/label</xpath>
     <value>
-          <label>Major Explosive Blast</label>
+          <label>major explosive blast</label>
     </value>
   </Operation>
 
@@ -868,21 +868,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorWarriorsShield"]/label</xpath>
     <value>
-          <label>Minor Melee Magnetic Shield</label>
+          <label>minor melee magnetic shield</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_WarriorsShield"]/label</xpath>
     <value>
-          <label>Minor Melee Magnetic Shield</label>
+          <label>melee magnetic shield</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorWarriorsShield"]/label</xpath>
     <value>
-          <label>Minor Melee Magnetic Shield</label>
+          <label>major melee magnetic shield</label>
     </value>
   </Operation>
 
@@ -914,21 +914,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagiciansShield"]/label</xpath>
     <value>
-          <label>Minor Ranged Magnetic Shield</label>
+          <label>minor ranged magnetic shield</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagiciansShield"]/label</xpath>
     <value>
-          <label>Minor Ranged Magnetic Shield</label>
+          <label>ranged magnetic shield</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagiciansShield"]/label</xpath>
     <value>
-          <label>Minor Ranged Magnetic Shield</label>
+          <label>Major ranged magnetic shield</label>
     </value>
   </Operation>
 
@@ -945,7 +945,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Scorch"]/description</xpath>
     <value>
-          <description>Enhanced with an exothermic reaction, this weapon can sometimes unleash a wave of energy and may cause heatstrokes.</description>
+          <description>Enhanced with a exothermic reaction, this weapon can sometimes unleash a wave of energy and may cause heatstrokes.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -969,7 +969,7 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_Freeze"]/description</xpath>
     <value>
-          <description>Enhanced with an endothermic reaction, this weapon can sometimes unleash a wave of energy and may cause hypothermia.</description>
+          <description>Enhanced with a endothermic reaction, this weapon can sometimes unleash a wave of energy and may cause hypothermia.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

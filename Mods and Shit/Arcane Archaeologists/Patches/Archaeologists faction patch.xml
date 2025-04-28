@@ -52,7 +52,7 @@
         <success>Always</success>
         <xpath>Defs/FactionDef[defName="Ogam_MagicalAcademy"]/description</xpath>
         <value>
-              <description>These Medieval Archaeologists are a guild of scholars and warriors who specialize in uncovering and preserving ancient artifacts and ruins. They use their rediscovered gear to protect themselves and their discoveries while they search for new, powerful relics to add to their collection. Novices, scholars, and fighters alike are welcome in this faction, where they can learn from and contribute to the collective knowledge of the Archaeologists.</description>
+              <description>These medieval archaeologists are a guild of scholars and warriors who specialize in uncovering and preserving ancient artifacts and ruins. They use their rediscovered gear to protect themselves and their discoveries while they search for new, powerful relics to add to their collection. Novices, scholars, and fighters alike are welcome in this faction, where they can learn from and contribute to the collective knowledge of the archaeologists.</description>
         </value>
       </Operation>
 

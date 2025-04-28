@@ -37,14 +37,14 @@
             <success>Always</success>
             <xpath>Defs/ThingDef[defName="Ogam_WizzardHatA"]/description</xpath>
             <value>
-                  <description>A Wizard Hat is a traditional headgear worn by those in the Archaeology Guild who believe geo-engineered stones of Project Baetyl are actually magic.</description>
+                  <description>A wizard hat is a traditional headgear worn by those in the Archaeology Guild who believe geo-engineered stones of Project Baetyl are actually magic.</description>
             </value>
       </Operation>
       <Operation Class="PatchOperationReplace">
             <success>Always</success>
             <xpath>Defs/ThingDef[defName="Ogam_WizzardHatB"]/description</xpath>
             <value>
-                  <description>A Wizard Hat is a traditional headgear worn by those in the Archaeology Guild who believe geo-engineered stones of Project Baetyl are actually magic.</description>
+                  <description>A wizard hat is a traditional headgear worn by those in the Archaeology Guild who believe geo-engineered stones of Project Baetyl are actually magic.</description>
             </value>
       </Operation>
       
@@ -60,7 +60,7 @@
         <success>Always</success>
         <xpath>Defs/ThingDef[defName="Ogam_GuildCloth"]/label</xpath>
         <value>
-              <label>Archaeologist Guild Cloth</label>
+              <label>Archaeologist Guild cloth</label>
         </value>
     </Operation> 
 
@@ -70,21 +70,21 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="Ogam_RunePistol"]</xpath>
     <value>
-          <description>An exotic Flintlock Pistol made possible only by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
+          <description>An exotic flintlock pistol made possible by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationAdd">
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_RuneMortar"]</xpath>
       <value>
-            <description>An exotic Hand Mortar made possible only by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
+            <description>An exotic hand mortar made possible by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
     </value>
     </Operation>      
     <Operation Class="PatchOperationAdd">
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_RuneMusket"]</xpath>
       <value>
-            <description>An exotic Musket made possible only by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
+            <description>An exotic Musket made possible by a reaction from stone modified by Project Baetyl. The Archaeologist Guild carved runes into the wood to make it feel more antique and authentic.</description>
     </value>
     </Operation>
 
@@ -141,21 +141,21 @@
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_EmeraldBook"]/description</xpath>
       <value>
-              <description>A rare and powerful tome, crafted from geo-modified emerald gemstones.</description>
+              <description>A rare and powerful tome, crafted from geo-modified emerald gemstones and imbued with powerful dark energy.</description>
         </value>
     </Operation>
     <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_RubyBook"]/description</xpath>
       <value>
-              <description>A rare and powerful tome, crafted from geo-modified ruby gemstones.</description>
+              <description>A rare and powerful tome, crafted from geo-modified ruby gemstones and imbued with powerful dark energy.</description>
         </value>
     </Operation>
     <Operation Class="PatchOperationReplace">
       <success>Always</success>
       <xpath>Defs/ThingDef[defName="Ogam_SapphireBook"]/description</xpath>
       <value>
-              <description>A rare and powerful tome, crafted from geo-modified sapphire gemstones.</description>
+              <description>A rare and powerful tome, crafted from geo-modified sapphire gemstones and imbued with powerful dark energy.</description>
         </value>
     </Operation>
 

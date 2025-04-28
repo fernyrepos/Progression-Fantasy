@@ -151,21 +151,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Amber"]/description</xpath>
     <value>
-          <description>Enhanced with a weak Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a weak explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Amber"]/description</xpath>
     <value>
-          <description>Enhanced with a Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Amber"]/description</xpath>
     <value>
-          <description>Enhanced with a strong Explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
+          <description>Enhanced with a strong explosive reaction, this weapon can sometimes unleash a weak blast of energy on enemy contact.</description>
     </value>
   </Operation>
 
@@ -174,21 +174,21 @@
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MinorMagicBlast_Amber"]/label</xpath>
     <value>
-          <label>Minor Explosive Blast</label>
+          <label>minor explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MagicBlast_Amber"]/label</xpath>
     <value>
-          <label>Explosive Blast</label>
+          <label>explosive blast</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <success>Always</success>
     <xpath>Defs/RimFantasy.ArcaneWeaponTraitDef[defName="RF_MajorMagicBlast_Amber"]/label</xpath>
     <value>
-          <label>Major Explosive Blast</label>
+          <label>major explosive blast</label>
     </value>
   </Operation>
 

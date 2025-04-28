@@ -22,7 +22,7 @@
       <success>Always</success>
       <xpath>Defs/DamageDef[defName="RF_MagicBolt_AmberRing"]/label</xpath>
       <value>
-            <label>Crystalline Bolt</label>
+            <label>crystalline bolt</label>
       </value>
 </Operation>   
 <Operation Class="PatchOperationReplace">
@@ -37,7 +37,7 @@
         <success>Always</success>
         <xpath>Defs/DamageDef[defName="Ogam_MagicBolt_Amber"]/label</xpath>
         <value>
-              <label>Crystalline Bolt</label>
+              <label>crystalline bolt</label>
         </value>
   </Operation>   
   

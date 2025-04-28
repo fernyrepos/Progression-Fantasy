@@ -7,7 +7,7 @@
     <success>Always</success>
     <xpath>Defs/ThingDef[defName="DevDesigner_Blood_MeleeWeapon_VoidLongsword"]/description</xpath>
     <value>
-          <description>The mere presence of the void longsword is said to strike fear into the hearts of all who behold it, for it is whispered that it was crafted by ancient sanguophage smiths to harness the power of the void. Those who wield it are said to be consumed by its dark power, becoming a force of destruction and terror. It is said that only the bravest and most powerful sanguophage warriors can even hope to wield this sword without being consumed by its darkness. The sword's high penetration makes it a formidable weapon against even the most heavily armored opponents, capable of slicing through steel and enchanted defenses with ease. The sword's blade is adorned with intricate engravings and inlaid with gemstones, that enhances its power.</description>
+          <description>The mere presence of the void longsword is said to strike fear into the hearts of all who behold it, for it is whispered that it was crafted by ancient sanguophage smiths to harness the power of the void. Those who wield it are said to be consumed by its dark power, becoming a force of destruction and terror. It is said that only the bravest and most powerful sanguophage warriors can even hope to wield this sword without being consumed by its darkness. The sword's high penetration makes it a formidable weapon against even the most heavily armored opponents, capable of slicing through steel and enchanted defenses with ease. The sword's blade is adorned with intricate engravings and inlaid with a powerful shard, that enhances its power.</description>
     </value>
   </Operation>
 
@@ -18,5 +18,21 @@
             <description>Forge powerful weapons of war with blood and geo-modified gemstones from project Baetyl.</description>
       </value>
     </Operation>
+
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/ThingDef[defName="DevDesigner_Blood_MeleeWeapon_VoidLongsword"]/costList</xpath>
+  <value>
+		<costList>
+      <Steel>100</Steel>
+      <HemogenPack>3</HemogenPack>
+      <DankPyon_Sapphire>15</DankPyon_Sapphire>
+			<BotchJob_ColossusHeart MayRequire="botchjob.profaned">1</BotchJob_ColossusHeart>
+			<BotchJob_Bloodstone MayRequire="botchjob.profaned">1</BotchJob_Bloodstone>
+			<BotchJob_SoulGem MayRequire="botchjob.profaned">1</BotchJob_SoulGem>
+		</costList>
+  </value>
+</Operation>
 
 </Patch>

@@ -6,5 +6,11 @@
     <li IfModActive="rooboid.satyr">Mods and Shit/Roo Satyr</li>
     <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
     <li IfModActive="det.epochspyrinth">Mods and Shit/Pyrinth</li>
+    <li IfModActive="sierra.rf.medievaloverhaul">Mods and Shit/Rimfantasy</li>
+    <li IfModActive="addie.housevanilla">Mods and Shit/House Van Illa</li>
+    <li IfModActive="sierra.rf.housedoyle">Mods and Shit/Rimfantasy Doyle</li>
+    <li IfModActive="turkler.medievaloverhaul.arcanearchaeologists">Mods and Shit/Arcane Archaeologists</li>
+    <li IfModActive="finch.blood">Mods and Shit/House Sanguine</li>
+    <li IfModActive="BotchJob.Profaned">Mods and Shit/Profaned</li>
   </v1.5>
 </loadFolders>

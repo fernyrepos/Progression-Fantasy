@@ -14,11 +14,13 @@
 		<li>Ludeon.Rimworld.Biotech</li>
 		<li>Ludeon.Rimworld.Anomaly</li>
 		<li>sarg.magicalmenagerie</li>
+		<li>sarg.alphabiomes</li>
 		<li>rooboid.minotaur</li>
 		<li>rooboid.faun</li>
 		<li>rooboid.satyr</li>
 		<li>dankpyon.medieval.overhaul</li>
 		<li>det.epochspyrinth</li>
 		<li>rooboid.satyrfaun.expanded</li>
+		<li>wara.toomanymods</li>
 	</loadAfter>
 </ModMetaData>

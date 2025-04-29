@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+<!-- Death Message changes -->
+  
+<Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/DamageDef[defName="RF_MagicBolt_Ring_Amethyst"]/deathMessage</xpath>
+    <value>
+          <deathMessage>{0} has succumbed to crystalline attacks.</deathMessage>
+    </value>
+  </Operation>   
+
+<!-- Damage Label changes -->
+
+<Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/DamageDef[defName="RF_MagicBolt_Wand_Amethyst"]/label</xpath>
+      <value>
+            <label>crystalline effect</label>
+      </value>
+</Operation>   
+
+<Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/DamageDef[defName="RF_MagicBolt_AmethystRing"]/label</xpath>
+      <value>
+            <label>crystalline bolt</label>
+      </value>
+</Operation>    
+
+<Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/DamageDef[defName="RF_MagicBolt_Staff_Amethyst"]/label</xpath>
+      <value>
+            <label>crystalline effect</label>
+      </value>
+</Operation>   
+
+<Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/DamageDef[defName="RF_MagicArrow_Amethyst"]/label</xpath>
+      <value>
+            <label>amethyst arcane arrow</label>
+      </value>
+</Operation>    
+
+<Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Amethyst"]/label</xpath>
+      <value>
+            <label>crystalline burn</label>
+      </value>
+</Operation>   
+
+</Patch>

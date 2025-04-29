@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+ <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/GeneDef[defName="Addie_SimulacrumGene"]/description</xpath>
+    <value>
+          <description>This individual is a simulacrum. Essentially composed made of ice, and kept alive by archites. They are immune to biological conditions and do not need to rest.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/GeneDef[defName="Addie_GhostlyIce"]/description</xpath>
+    <value>
+          <description>This individual's body is composed of ice, rendering them immune to cold.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/GeneDef[defName="Addie_GhostlyIce"]/label</xpath>
+    <value>
+          <label>Ice Body</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/GeneDef[defName="Addie_SimPainless"]/description</xpath>
+    <value>
+          <description>This individual is partially composed of ice and possesses minimal ability to feel pain.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/XenotypeDef[defName="Addie_AncientSimulacrum"]/description</xpath>
+    <value>
+          <description>The ancient simulacrum are the icy remnants of those who defended Illa during its fall, now left to fight on for a cause long lost forevermore thanks to the archites in their system.\n\nWhatever skills they had in life are long deteriorated. All that remains is their duty.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/XenotypeDef[defName="Addie_IllanFey"]/description</xpath>
+    <value>
+          <description>The Illan Fey are descendants of the ancient fae human cross-breed inhabitants of the lost winter city of Illa.\n\n A graceful and prideful race attuned to the psychic flows of the world.\n\nWhile not suited for ranged combat or manual labor, Illan Fey make remarkable melee fighters, leaders, and casters. So long as they're kept out of the heat.</description>
+    </value>
+  </Operation>
+  
+</Patch>

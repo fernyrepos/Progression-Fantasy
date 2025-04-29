@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+ 
+  <!-- Weapon Description changes -->
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldBattleAxe"]</xpath>
+    <value>
+          <description>Gemstone blades attached to shaft, capable of cutting through armored enemies with ease.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyBattleAxe"]</xpath>
+    <value>
+          <description>Gemstone blades attached to shaft, capable of cutting through armored enemies with ease.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireBattleAxe"]</xpath>
+    <value>
+          <description>Gemstone blades attached to shaft, capable of cutting through armored enemies with ease.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldBow"]</xpath>
+    <value>
+          <description>Lovingly carved to perfection, this bow and its arrows are imbued with crystalline energies and can allow the user to take down enemies from a great distance.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyBow"]</xpath>
+    <value>
+          <description>Lovingly carved to perfection, this bow and its arrows are imbued with crystalline energies and can allow the user to take down enemies from a great distance.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireBow"]</xpath>
+    <value>
+          <description>Lovingly carved to perfection, this bow and its arrows are imbued with crystalline energies and can allow the user to take down enemies from a great distance.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldDagger"]</xpath>
+    <value>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyDagger"]</xpath>
+    <value>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireDagger"]</xpath>
+    <value>
+          <description>Exotic dagger with a razor-sharp edge, enhanced by remnant effects from Project Baetyl geo-engineering to increase its lethality.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldHalberd"]</xpath>
+    <value>
+          <description>Regal looking polearm with large gemstone blades, capable of stopping all but the largest adversaries.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyHalberd"]</xpath>
+    <value>
+          <description>Regal looking polearm with large gemstone blades, capable of stopping all but the largest adversaries.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireHalberd"]</xpath>
+    <value>
+          <description>Regal looking polearm with large gemstone blades, capable of stopping all but the largest adversaries.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldLongsword"]</xpath>
+    <value>
+          <description>A razor sharp blade with a deadly purpose, a choice weapon for those who strive for a balance between elegance and power.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyLongsword"]</xpath>
+    <value>
+          <description>A razor sharp blade with a deadly purpose, a choice weapon for those who strive for a balance between elegance and power.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireLongsword"]</xpath>
+    <value>
+          <description>A razor sharp blade with a deadly purpose, a choice weapon for those who strive for a balance between elegance and power.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldRing"]</xpath>
+    <value>
+          <description>An alluring glow gives away the fact that this is an enhanced ring. This ring allow its wearer to release destructive bolts of energy around their target.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.\n\nDoes not drop on down or death.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyRing"]</xpath>
+    <value>
+          <description>An alluring glow gives away the fact that this is an enhanced ring. This ring allow its wearer to release destructive bolts of energy around their target.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.\n\nDoes not drop on down or death.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireRing"]</xpath>
+    <value>
+          <description>An alluring glow gives away the fact that this is an enhanced ring. This ring allow its wearer to release destructive bolts of energy around their target.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.\n\nDoes not drop on down or death.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldSpear"]</xpath>
+    <value>
+          <description>Regal looking polearm with a gemstone tip, capable of puncturing through armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubySpear"]</xpath>
+    <value>
+          <description>Regal looking polearm with a gemstone tip, capable of puncturing through armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireSpear"]</xpath>
+    <value>
+          <description>Regal looking polearm with a gemstone tip, capable of puncturing through armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldStaff"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this staff is charged with crystalline energy and can be used to launch a barrage upon enemies.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyStaff"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this staff is charged with crystalline energy and can be used to launch a barrage upon enemies.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireStaff"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this staff is charged with crystalline energy and can be used to launch a barrage upon enemies.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldWand"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this wand is charged with crystalline energy and is a choice weapon for its remarkable effectiveness and ease of use.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyWand"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this wand is charged with crystalline energy and is a choice weapon for its remarkable effectiveness and ease of use.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireWand"]</xpath>
+    <value>
+          <description>Beautiful as it is deadly, this wand is charged with crystalline energy and is a choice weapon for its remarkable effectiveness and ease of use.\n\nShields cannot be used along with this weapon as they interfere with the flow of energies around the user.</description>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_EmeraldWarHammer"]</xpath>
+    <value>
+          <description>Hunk of gemstone attached to a pole, capable pulverising armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>  
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_RubyWarHammer"]</xpath>
+    <value>
+          <description>Hunk of gemstone attached to a pole, capable pulverising armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>  
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SapphireWarHammer"]</xpath>
+    <value>
+          <description>Hunk of gemstone attached to a pole, capable pulverising armored enemies.\n\nUsable with shields.</description>
+    </value>
+  </Operation>
+
+ <!-- Weapon Label changes -->
+
+ <Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWeapons"]/label</xpath>
+  <value>
+        <label>Gemstone Weapons</label>
+  </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWands"]/label</xpath>
+ <value>
+       <label>Gemstone Wands</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneStaffs"]/label</xpath>
+ <value>
+       <label>Gemstone Staffs</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneBows"]/label</xpath>
+ <value>
+       <label>Gemstone Bows</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneLongswords"]/label</xpath>
+ <value>
+       <label>Gemstone Longswords</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneDaggers"]/label</xpath>
+ <value>
+       <label>Gemstone Daggers</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneBattleAxes"]/label</xpath>
+ <value>
+       <label>Gemstone Battle Axes</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWarHammers"]/label</xpath>
+ <value>
+       <label>Gemstone Warhammers</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneSpears"]/label</xpath>
+ <value>
+       <label>Gemstone Spears</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneHalberds"]/label</xpath>
+ <value>
+       <label>Gemstone Halberds</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneRings"]/label</xpath>
+ <value>
+       <label>Gemstone Rings</label>
+ </value>
+</Operation>
+
+
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingDef[defName="RF_EmeraldRing"]/label</xpath>
+ <value>
+       <label>enhanced emerald ring</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingDef[defName="RF_RubyRing"]/label</xpath>
+ <value>
+       <label>ehanced ruby ring</label>
+ </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+ <success>Always</success>
+ <xpath>Defs/ThingDef[defName="RF_SapphireRing"]/label</xpath>
+ <value>
+       <label>enhanced sapphire ring</label>
+ </value>
+</Operation>
+
+</Patch>

@@ -230,77 +230,77 @@
   <success>Always</success>
   <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWeapons"]/label</xpath>
   <value>
-        <label>Gemstone Weapons</label>
+        <label>gemstone weapons</label>
   </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWands"]/label</xpath>
  <value>
-       <label>Gemstone Wands</label>
+       <label>gemstone wands</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneStaffs"]/label</xpath>
  <value>
-       <label>Gemstone Staffs</label>
+       <label>gemstone staffs</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneBows"]/label</xpath>
  <value>
-       <label>Gemstone Bows</label>
+       <label>gemstone bows</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneLongswords"]/label</xpath>
  <value>
-       <label>Gemstone Longswords</label>
+       <label>gemstone longswords</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneDaggers"]/label</xpath>
  <value>
-       <label>Gemstone Daggers</label>
+       <label>gemstone daggers</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneBattleAxes"]/label</xpath>
  <value>
-       <label>Gemstone Battle Axes</label>
+       <label>gemstone battle axes</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneWarHammers"]/label</xpath>
  <value>
-       <label>Gemstone Warhammers</label>
+       <label>gemstone warhammers</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneSpears"]/label</xpath>
  <value>
-       <label>Gemstone Spears</label>
+       <label>gemstone spears</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneHalberds"]/label</xpath>
  <value>
-       <label>Gemstone Halberds</label>
+       <label>gemstone halberds</label>
  </value>
 </Operation>
 <Operation Class="PatchOperationReplace">
  <success>Always</success>
  <xpath>Defs/ThingCategoryDef[defName="RF_ArcaneRings"]/label</xpath>
  <value>
-       <label>Gemstone Rings</label>
+       <label>gemstone rings</label>
  </value>
 </Operation>
 

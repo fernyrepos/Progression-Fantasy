@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+<!-- Research Message changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneCrafting"]/description</xpath>
+    <value>
+          <description>Creation of powerful equipment using modified gemstones from Project Baetyl.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneCrafting"]/label</xpath>
+    <value>
+          <label>Gem Experimentation</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneDefences"]/description</xpath>
+    <value>
+          <description>Construct powerful defences with using modified gemstones from Project Baetyl.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneDefences"]/label</xpath>
+    <value>
+          <label>Gemstone Defences</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneLighting"]/description</xpath>
+    <value>
+          <description>Tap into the modified properties from Project Baetyl to create light.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneLighting"]/label</xpath>
+    <value>
+          <label>Gemstone Lights</label>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneTemperatureRegulation"]/description</xpath>
+    <value>
+          <description>Tap into the modified properties from Project Baetyl to create temperature altering pylons.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneTemperatureRegulation"]/label</xpath>
+    <value>
+          <label>Gemstone Temperature Regulation</label>
+    </value>
+  </Operation>
+  
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneWeapons"]/description</xpath>
+    <value>
+          <description>Forge powerful weapons of war with modified gemstones from Project Baetyl.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ResearchProjectDef[defName="RF_ArcaneWeapons"]/label</xpath>
+    <value>
+          <label>Gemstone Weapons</label>
+    </value>
+  </Operation>
+
+  <!-- Lamp changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_DarkstoneLamp"]/description</xpath>
+    <value>
+          <description>A carefully crafted, modified sapphire sphere set on a small base. Can be placed on top of tables to light up a room.\n\nPeople who prefer darklight work best with this light source.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_DarkstonePedestal"]/description</xpath>
+    <value>
+          <description>A beautiful, modified sapphire within a carefully crafted pedestal which lights up an area.\n\nPeople who prefer to work in darklight are happy with this light source.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_VE_DarkstoneWallLamp"]/description</xpath>
+    <value>
+          <description>A small, modified sapphire sphere mounted on a wall. It lights up a small area, providing light in its surroundings.\n\nPeople who prefer darklight work best with this light source.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_GlowstoneLamp"]/description</xpath>
+    <value>
+          <description>A carefully crafted, modified citrine sphere set on a small base. Can be placed on top of tables to light up a room.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_GlowstonePedestal"]/description</xpath>
+    <value>
+          <description>A beautiful, modified citrine within a carefully crafted pedestal which lights up an area.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_VE_GlowstoneWallLamp"]/description</xpath>
+    <value>
+          <description>A small, modified citrine sphere mounted on a wall. It lights up a small area, providing light in its surroundings.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SunstonePedestal"]/description</xpath>
+    <value>
+          <description>A beautiful, modified diamond within a carefully crafted pedestal which lights up an area brightly enough to grow crops. The exordinary energy expenditure means that the gemstone within will only release its energy during the day.</description>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_VE_SunstoneWallLamp"]/description</xpath>
+    <value>
+          <description>A small, modified diamond sphere mounted on a wall. It lights up a small area brightly enough to grow crops. The exordinary energy expenditure means that the gemstone within will only release its energy during the day.</description>
+    </value>
+  </Operation>
+
+  <!-- Arcane Crafting Bench changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_ArcaneCraftingBench"]/description</xpath>
+    <value>
+          <description>A specialized workbench equipped for examining and unlocking the unique properties of gemstones modified by Project Baetyl.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_ArcaneCraftingBench"]/label</xpath>
+    <value>
+          <label>Gemstone Infusing Bench</label>
+    </value>
+  </Operation>
+
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/WorkGiverDef[defName="RF_DoBillsArcaneCrafting"]/verb</xpath>
+    <value>
+          <verb>Forge gemstone equipment</verb>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/WorkGiverDef[defName="RF_DoBillsArcaneCrafting"]/gerund</xpath>
+    <value>
+          <gerund>Forging gemstone equipment at</gerund>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/WorkGiverDef[defName="RF_DoBillsArcaneCrafting"]/label</xpath>
+    <value>
+          <label>Make gemstone equipment</label>
+    </value>
+  </Operation>
+  
+  <!-- Bombard Pylon changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_BombardPylon"]/description</xpath>
+    <value>
+          <description>A gemstone pylon, modified to provide short and medium range combat support in an area. Requires a fresh supply of onyx after extended deployment to start the reaction process again.  The energy of the crystal shell is barely contained and will explode upon imminent destruction.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_BombardPylonTurret_Invisible"]/description</xpath>
+    <value>
+          <description>The core of a defence pylon that unleashes crystalline energy.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_BombardPylon_MagicBolt"]/label</xpath>
+    <value>
+          <label>bombard pylon crystalline bolt</label>
+    </value>
+  </Operation>
+
+  <!-- Lance Pylon changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_LancePylon"]/description</xpath>
+    <value>
+          <description>A gemstone pylon, modified to provide medium to long range combat support in an area. Requires a fresh supply of onyx after extended deployment to start the reaction process again.  The energy of the crystal shell is barely contained and will explode upon imminent destruction.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_LancePylonTurret_Invisible"]/description</xpath>
+    <value>
+          <description>The core of a defence pylon that unleashes crystalline energy.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_LancePylon_MagicBolt"]/label</xpath>
+    <value>
+          <label>lance pylon crystalline bolt</label>
+    </value>
+  </Operation>
+
+  <!-- Spray Pylon changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SprayPylon"]/description</xpath>
+    <value>
+          <description>A gemstone pylon, modified to provide short and medium range combat support in an area. Requires a fresh supply of onyx after extended deployment to start the reaction process again.  The energy of the crystal shell is barely contained and will explode upon imminent destruction.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SprayPylonTurret_Invisible"]/description</xpath>
+    <value>
+          <description>The core of a defence pylon that unleashes crystalline energy.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_SprayPylon_MagicBolt"]/label</xpath>
+    <value>
+          <label>spray pylon crystalline bolt</label>
+    </value>
+  </Operation>
+
+  <!-- Temp Building changes -->
+
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_ColdCrystalBowl"]/description</xpath>
+    <value>
+          <description>Thanks to an endothermic reaction, these small crystals lower the surrounding temperature to create a cooler environment.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_HotCrystalBowl"]/description</xpath>
+    <value>
+          <description>Thanks to an exothermic reaction, these small crystals increases the surrounding temperature to create a warmer environment.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_FrostPylon"]/description</xpath>
+    <value>
+          <description>A beautifully crafted endothermic crystalline system that drains energy from its surroundings. Lowers nearby temperature and may explode on damage.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/ThingDef[defName="RF_FlamePylon"]/description</xpath>
+    <value>
+          <description>A beautifully crafted exothermic crystalline system that radiates energy into its surroundings. Increases nearby temperature and may explode on damage.</description>
+    </value>
+  </Operation>
+
+</Patch>

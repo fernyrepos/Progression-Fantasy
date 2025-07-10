@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+<!-- Death Message changes -->
+
+<Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Amber"]/label</xpath>
+    <value>
+          <label>amber energy burn</label>
+    </value>
+  </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/DamageDef[defName="RF_Flame_SmallSquareRF_Amber"]/deathMessage</xpath>
+        <value>
+              <deathMessage>{0} has been burned to death by crystalline energy.</deathMessage>
+        </value>
+      </Operation>   
+         
+<Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/DamageDef[defName="RF_MagicBolt_AmberRing"]/label</xpath>
+      <value>
+            <label>crystalline bolt</label>
+      </value>
+</Operation>   
+<Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/DamageDef[defName="RF_MagicBolt_AmberRing"]/deathMessage</xpath>
+    <value>
+          <deathMessage>{0} has succumbed to crystalline attacks.</deathMessage>
+    </value>
+  </Operation> 
+  
+  <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/DamageDef[defName="Ogam_MagicBolt_Amber"]/label</xpath>
+        <value>
+              <label>crystalline bolt</label>
+        </value>
+  </Operation>   
+  
+  <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/DamageDef[defName="RF_MagicBolt_Ring_Amber"]/label</xpath>
+        <value>
+              <label>crystalline ring effect</label>
+        </value>
+  </Operation>   
+
+</Patch>

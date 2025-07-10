@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>   
+
+<Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/TraderKindDef[defName="EEG_Caravan_Medieval_ArcaneGoodsMerchant"]/label</xpath>
+    <value>
+          <label>Archaeologist Guild Merchant</label>
+    </value>
+  </Operation>
+  
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/PawnKindDef[defName="Ogam_MagicalAcademyPawnBase"]/label</xpath>
+            <value>
+                  <label>Archaeologist Shaman</label>
+            </value>
+      </Operation>    
+  
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/PawnKindDef[defName="Ogam_MagicalAcademy"]/label</xpath>
+            <value>
+                  <label>Archaeologist Fusilier</label>
+            </value>
+    </Operation>
+  
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/PawnKindDef[defName="Ogam_MA_BattleMage"]/label</xpath>
+            <value>
+                  <label>Archaeologist Scholar</label>
+            </value>
+      </Operation>
+  
+      <Operation Class="PatchOperationReplace">
+            <success>Always</success>
+            <xpath>Defs/PawnKindDef[defName="Ogam_MagicalAcademy"]/label</xpath>
+            <value>
+                  <label>Archaeologist Head Shaman</label>
+            </value>
+      </Operation>
+
+  <Operation Class="PatchOperationReplace">
+      <success>Always</success>
+      <xpath>Defs/FactionDef[defName="Ogam_MagicalAcademy"]/label</xpath>
+      <value>
+            <label>Medieval Archaeologists</label>
+      </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <success>Always</success>
+        <xpath>Defs/FactionDef[defName="Ogam_MagicalAcademy"]/description</xpath>
+        <value>
+              <description>These medieval archaeologists are a guild of scholars and warriors who specialize in uncovering and preserving ancient artifacts and ruins. They use their rediscovered gear to protect themselves and their discoveries while they search for new, powerful relics to add to their collection. Novices, scholars, and fighters alike are welcome in this faction, where they can learn from and contribute to the collective knowledge of the archaeologists.</description>
+        </value>
+      </Operation>
+
+</Patch>
